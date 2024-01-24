@@ -1,0 +1,29 @@
+table {
+  border-radius: 15px;
+  background: rgb(106, 17, 17);
+  box-shadow: 0px 8px 8px 0px red;
+  margin: 20px 0;
+  max-width: 600px;
+  width: 100%;
+  color: #fff;
+}
+
+th {
+  border-radius: 10px;
+  background: rgb(106, 17, 17);
+  box-shadow: 0px 4px 4px 0px red;
+  color: #fff;
+}
+
+td {
+  border-radius: 10px;
+  border: 1px solid #000;
+  background: rgb(106, 17, 17);
+  box-shadow: 0px 4px 4px 0px rgb(106, 17, 17);
+}
+
+p {
+  border-radius: 5px;
+  color: #e85a4f;
+  font-weight: bold;
+}
